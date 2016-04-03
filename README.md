@@ -25,9 +25,7 @@ Smartlab - Non Linear Complex Systems Laboratory
 DITEN - Università degli Studi di Genova.
 Via Opera Pia 11A, I-16145, Genoa, Italy.
 activityrecognition@smartlab.ws
-www.smartlab.ws
 ==================================================================
-
 
 
 Project Brief
@@ -75,7 +73,8 @@ To run the script call:
 summary.txt
 ------------------------
 The resulting summary data is a space delimited .txt file.
-This file can be loaded into R by using the following line : data <- read.table("summary.txt", header=TRUE)
+This file can be loaded into R by using the following line : 
+data <- read.table("summary.txt", header=TRUE)
 The file must be located in your current working directory
 
 

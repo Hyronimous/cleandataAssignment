@@ -39,7 +39,7 @@ A unique integer to identify each of the subjects in the study, numbers range fr
 The variable (or feature) being measured.
 
 **note**
-Variables ending in "-X", "-Y" or "-Z" are different axes.
+Variables ending in "-X", "-Y" or "-Z" are movement on different axes in relation to the position of the smartphone.
 
 **value**
 The value of the variable for the  subject/activity.
